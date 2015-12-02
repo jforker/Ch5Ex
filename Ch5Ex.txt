@@ -1,0 +1,10 @@
+Chapter 5 Exercises
+5.1: WBC-1 appears to be a white blood cell simulator.
+5.2: The Bloodstream class extends the World class and is styled to resemble the bloodstream inside of a body.  The Whitecell Class Extends Actor and is a user-controlled white blood cell.  The Bacteria Class Extends Actor and represents bacteria in the bloodstream.  The Lining Class extends Actor and is a representation of the bloodstream cell lining.
+5.3: 
+setLocation(int x, int y)
+Assign a new location for this actor.
+getX()
+Return the x-coordinate of the actor's current location.
+getY()
+Return the y-coordinate of the actor's current location.
